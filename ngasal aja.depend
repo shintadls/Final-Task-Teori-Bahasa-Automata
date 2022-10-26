@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1640867346 source:c:\users\asus\documents\codeblocks\ngasal aja\main.cpp
+	"final.h"
+
+1640865299 c:\users\asus\documents\codeblocks\ngasal aja\final.h
+	<iostream>
+
+1640866999 source:c:\users\asus\documents\codeblocks\ngasal aja\final.cpp
+	"final.h"
+
